@@ -1,4 +1,4 @@
-# Tandemloop Screening Test - Spandana K R
+# Tandemloop Screening Test 
 
 Language Used: Python
 
